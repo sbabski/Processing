@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<questions>
+  <question>
+    <text img="giraffe.jpg" score="10">The Burning Giraffe</text>
+    <answer ans="Rene Magritte,Salvador Dali,Yves Tanguy,Giorgio de Chirico">Salvador Dali</answer>
+  </question>
+  <question>
+    <text img="narcissus.jpg" score="10">The Metamorphosis of Narcissus</text>
+    <answer ans="Joan Miro,Man Ray,Giorgio de Chirico,Salvador Dali">Salvador Dali</answer>
+  </question>
+  <question>
+    <text img="vermeer.jpg" score="10"> The Ghost of Vermeer of 
+      Delft Which Can Be Used As a Table</text>
+    <answer ans="Salvador Dali,Man Ray,Yves Tanguy,Max Ernst">Salvador Dali</answer>
+  </question>
+  <question>
+    <text img="biscuits.jpg" score="10">Metaphysical Interior with Biscuits</text>
+    <answer ans="Joan Miro,Giorgio de Chirico,Yves Tanguy,Salvador Dali">Giorgio de Chirico</answer>
+  </question>
+  <question>
+    <text img="lovesong.jpg" score="10">The Song of Love</text>
+    <answer ans="Max Ernst,Salvador Dali,Giorgio de Chirico,Rene Magritte">Giorgio de Chirico</answer>
+  </question>
+  <question>
+    <text img="field.jpg" score="10">The Tilled Field</text>
+    <answer ans="Joan Miro,Yves Tanguy,Man Ray,Max Ernst">Joan Miro</answer>
+  </question>
+  <question>
+    <text img="lovers.jpg" score="10">The Lovers</text>
+    <answer ans="Giorgio de Chirico,Salvador Dali,Rene Magritte,Man Ray">Man Ray</answer>
+  </question>
+  <question>
+    <text img="elephant.jpg" score="10">The Elephant Celebes</text>
+    <answer ans="Max Ernst,Man Ray,Rene Magritte,Joan Miro">Max Ernst</answer>
+  </question>
+  <question>
+    <text img="ange.jpg" score="10">L'Ange du Foyeur</text>
+    <answer ans="Yves Tanguy,Giorgio de Chirico,Man Ray,Max Ernst">Max Ernst</answer>
+  </question>
+  <question>
+    <text img="golconda.jpg" score="10">Golconda</text>
+    <answer ans="Joan Miro,Max Ernst,Rene Magritte,Giorgio de Chirico">Rene Magritte</answer>
+  </question>
+  <question>
+    <text img="portrait.jpg" score="10">The Portrait</text>
+    <answer ans="Rene Magritte,Salvador Dali,Yves Tanguy,Max Ernst">Rene Magritte</answer>
+  </question>
+  <question>
+    <text img="time.jpg" score="10">Time Transfixed</text>
+    <answer ans="Giorgio de Chirico,Rene Magritte,Joan Miro,Salvador Dali">Rene Magritte</answer>
+  </question>
+  <question>
+    <text img="indefinite.jpg" score="10">Indefinite Divisibility</text>
+    <answer ans="Rene Magritte,Salvador Dali,Yves Tanguy,Max Ernst">Yves Tanguy</answer>
+  </question>
+</questions>
